@@ -1,0 +1,9 @@
+body {
+  padding: 5rem;
+  background-image: linear-gradient(
+    to bottom,
+    $gradient-color-top,
+    $gradient-color-bottom
+  );
+  min-height: 100vh;
+}

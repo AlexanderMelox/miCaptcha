@@ -1,0 +1,11 @@
+html {
+  font-size: 62.5%; // 10 / 16 = 62.5% = 10px
+}
+
+body {
+  font-family: "Roboto", "Helvetica", sans-serif;
+  color: $body-color;
+  font-size: $default-font-size;
+  line-height: 1.6;
+  font-weight: 400;
+}
